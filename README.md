@@ -1,4 +1,4 @@
- {align="center"}
+ <align="center">
 # 👋 Hi, I'm Prajval R Shunty
 
 ### 🎓 Student \| 💻 Computer Science & Data Science \| 📊 Aspiring Data Analyst
