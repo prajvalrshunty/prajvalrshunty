@@ -123,26 +123,6 @@ An Amazon-style website built using HTML and CSS.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=prajvalrshunty&theme=nord&no-frame=true&no-bg=true&margin-w=6)](https://github.com/prajvalrshunty)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Prajval's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prajvalrshunty&theme=nord&color=a78bfa&line=a78bfa&point=a78bfa&area=true&hide_border=true)](https://github.com/prajvalrshunty)
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
