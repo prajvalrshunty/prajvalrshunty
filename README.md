@@ -47,8 +47,6 @@ const prajval = {
 
 ### 🛒 Amazon Clone
 
-[![Amazon Clone](https://github.com/prajvalrshunty/amzon-clone)
-
 An Amazon-style website built using HTML and CSS.
 
 | Layer | Technology |
