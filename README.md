@@ -23,7 +23,7 @@
 
 ## 👨‍💻 Who I Am
 
- ts
+ts
 const prajval = {
   title: "Student",
   stack: [
@@ -41,6 +41,8 @@ const prajval = {
   status: "Currently learning JavaScript and n8n",
   openTo: "Data Analyst"
 };
+
+
 
 
 ------------------------------------------------------------------------
