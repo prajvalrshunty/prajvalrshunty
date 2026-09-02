@@ -21,6 +21,27 @@
 
 ------------------------------------------------------------------------
 
+
+
+
+------------------------------------------------------------------------
+
+## 🚀 Featured Projects
+
+### 🛒 Amazon Clone
+
+A frontend project inspired by the Amazon shopping experience, built
+using HTML and CSS.
+
+  Layer      Technology
+  ---------- ------------
+  Frontend   HTML
+  Styling    CSS
+
+
+<p>
+
+<a href="https://github.com/prajvalr
 ## 👨‍💻 Who I Am
 
 ts
@@ -42,27 +63,7 @@ const prajval = {
   openTo: "Data Analyst"
 };
 
-
-
-
-------------------------------------------------------------------------
-
-## 🚀 Featured Projects
-
-### 🛒 Amazon Clone
-
-A frontend project inspired by the Amazon shopping experience, built
-using HTML and CSS.
-
-  Layer      Technology
-  ---------- ------------
-  Frontend   HTML
-  Styling    CSS
-
-
-<p>
-
-<a href="https://github.com/prajvalrshunty/Amazon-Clone">
+shunty/Amazon-Clone">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=prajvalrshunty&repo=Amazon-Clone&theme=nord&border_color=7dd3fc" alt="Amazon Clone repository card">
 </a>
 
