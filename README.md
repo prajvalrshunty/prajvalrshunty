@@ -17,29 +17,47 @@
 
 ---
 
-## 👨‍💻 Who I Am
+## 👋 Who I Am
 
-```typescript
-const prajval = {
-  title: "Computer Science & Data Science Engineering Student",
-  stack: [
-    "Python",
-    "C",
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "Git",
-    "GitHub",
-    "n8n"
-  ],
-  launchedProjects: [
-    "Amazon Clone — an Amazon-style website built using HTML and CSS"
-  ],
-  certifications: [],
-  status: "Learning JavaScript, AI application development and n8n",
-  openTo: "Jobs and internships"
-};
-```
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 Student Developer
+
+I'm a Computer Science & Data Science Engineering student currently entering my **3rd semester**, focused on building real projects and improving my development skills.
+
+</td>
+
+<td width="50%">
+
+### 🚀 Current Focus
+
+- Web Development
+- React
+- AI & Automation
+- Hackathons
+- Full-Stack Development
+- Open Source
+
+</td>
+</tr>
+</table>
+
+### 💻 My Developer Profile
+
+| | |
+|---|---|
+| **Role** | Computer Science & Data Science Engineering Student |
+| **Stack** | C • Python • HTML • CSS • JavaScript • |
+| **Projects** | 1 Featured Projects |
+| **Status** | Entering 3rd Semester |
+| **Open To** | Work • Internships |
+| **Currently Exploring** | AI • Automation • Full-Stack Development |
+
+I'm currently growing toward full-stack development while exploring **AI, automation, hackathons, and open source**.
+
+---
 
 ---
 
@@ -53,7 +71,7 @@ An Amazon-style website built using HTML and CSS.
 |---|---|
 | Frontend | HTML, CSS |
 
-**[Code](https://github.com/prajvalrshunty/amzon-clone)**
+**💻[Code](https://github.com/prajvalrshunty/amzon-clone)**
 
 > No live demo is currently available.
 
