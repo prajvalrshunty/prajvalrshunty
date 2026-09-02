@@ -148,7 +148,7 @@ ability to build useful software and automation solutions.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
+
 ### 💡 "Build. Learn. Automate. Repeat."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Decorative footer">
