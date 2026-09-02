@@ -4,18 +4,7 @@
 ### 🚀 Computer Science & Data Science Student \| Aspiring Data Analyst \| Developer
 
 
-<p>
 
-<a href="https://github.com/prajvalrshunty">
-<img src="https://img.shields.io/badge/GitHub-prajvalrshunty-181717?style=for-the-badge&logo=github" alt="GitHub">
-</a>
-<a href="https://www.linkedin.com/in/prajval-r-shunty-139a47385/">
-<img src="https://img.shields.io/badge/LinkedIn-Prajval%20R%20Shunty-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-</a> <a href="mailto:prajvalrshunty@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" alt="Email">
-</a>
-
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" alt="Decorative header">
 
@@ -134,12 +123,15 @@ ability to build useful software and automation solutions.
 ## 🌐 Connect With Me
 
 
-<p align="center">
+<p align=center>
 
+<a href="https://github.com/prajvalrshunty">
+<img src="https://img.shields.io/badge/GitHub-prajvalrshunty-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
 <a href="https://www.linkedin.com/in/prajval-r-shunty-139a47385/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-Prajval%20R%20Shunty-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 </a> <a href="mailto:prajvalrshunty@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-prajvalrshunty%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" alt="Email">
 </a>
 
 </p>
