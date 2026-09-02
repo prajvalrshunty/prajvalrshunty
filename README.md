@@ -132,19 +132,7 @@ Repository](https://github.com/prajvalrshunty/Amazon-Clone)
 
 ------------------------------------------------------------------------
 
-## 🏆 GitHub Trophies
 
-::: {align="center"}
-<img src="https://github-profile-trophy.vercel.app/?username=prajvalrshunty&theme=nord&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies">{=html}
-:::
-
-------------------------------------------------------------------------
-
-## 📈 Contribution Activity
-
-::: {align="center"}
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prajvalrshunty&theme=nord&bg_color=2e3440&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=false" alt="GitHub contribution activity graph">{=html}
-:::
 
 ------------------------------------------------------------------------
 
