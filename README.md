@@ -17,7 +17,7 @@
 
 </p>
 
-:::
+
 
 ------------------------------------------------------------------------
 
@@ -116,35 +116,26 @@ Repository](https://github.com/prajvalrshunty/Amazon-Clone)
 
 ## 📊 GitHub Stats
 
-::: {align="center"}
+ {align="center"}
 <img src="https://github-readme-stats.vercel.app/api?username=prajvalrshunty&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=ffffff&bg_color=2e3440" height="170" alt="Prajval's GitHub stats">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajvalrshunty&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&bg_color=2e3440" height="170" alt="Top languages">
-:::
+
 
 ------------------------------------------------------------------------
 
 ## 🔥 Streak Stats
 
-::: {align="center"}
+ {align="center"}
 <img src="https://streak-stats.demolab.com?user=prajvalrshunty&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub streak stats">
-:::
+
 
 ------------------------------------------------------------------------
 
-## 🏆 GitHub Trophies
 
-::: {align="center"}
-<img src="https://github-profile-trophy.vercel.app/?username=prajvalrshunty&theme=nord&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies">
-:::
 
 ------------------------------------------------------------------------
 
-## 📈 Contribution Activity
-
-::: {align="center"}
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prajvalrshunty&theme=nord&bg_color=2e3440&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=false" alt="GitHub contribution activity graph">
-:::
 
 ------------------------------------------------------------------------
 
@@ -178,7 +169,7 @@ skills and projects that move me toward a career in data analytics.
 
 ## 🤝 Connect With Me
 
-::: {align="center"}
+ {align="center"}
 <a href="https://www.linkedin.com/in/prajval-r-shunty-139a47385/">
 <img src="https://img.shields.io/badge/LinkedIn-Prajval%20R%20Shunty-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a> <a href="mailto:prajvalrshunty@gmail.com">
@@ -186,12 +177,12 @@ skills and projects that move me toward a career in data analytics.
 </a> <a href="https://github.com/prajvalrshunty">
 <img src="https://img.shields.io/badge/GitHub-prajvalrshunty-7dd3fc?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-:::
+
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
+ {align="center"}
 ### 💡 Learn • Build • Automate • Grow
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=130&section=footer&animation=twinkling" alt="Footer banner">
-:::
+
