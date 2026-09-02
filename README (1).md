@@ -73,9 +73,9 @@ An Amazon-style website built using HTML and CSS.
   <img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </p>
 
-### AI / Automation
+### AI & Exploration
 <p>
-  <img src="https://skillicons.dev/icons?i=n8n" />
+  <img src="https://skillicons.dev/icons?i=python>
 </p>
 
 ### Dev Tools
@@ -85,17 +85,6 @@ An Amazon-style website built using HTML and CSS.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=prajvalrshunty&show_icons=true&theme=nord&border_color=a78bfa&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajvalrshunty&layout=compact&theme=nord&border_color=a78bfa&title_color=a78bfa&text_color=ffffff" height="180"/>
-
-</div>
-
----
 
 ## 🔥 GitHub Streak
 
@@ -107,25 +96,6 @@ An Amazon-style website built using HTML and CSS.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=prajvalrshunty&theme=nord&no-frame=true&no-bg=true&margin-w=6)](https://github.com/prajvalrshunty)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Prajval's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prajvalrshunty&theme=nord&color=a78bfa&line=a78bfa&point=a78bfa&area=true&hide_border=true)](https://github.com/prajvalrshunty)
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
