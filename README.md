@@ -47,7 +47,7 @@ const prajval = {
 
 ### 🛒 Amazon Clone
 
-[![Amazon Clone](https://github-readme-stats.vercel.app/api/pin/?username=prajvalrshunty&repo=amzon-clone&theme=nord&border_color=a78bfa&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff)](https://github.com/prajvalrshunty/amzon-clone)
+[![Amazon Clone](https://github.com/prajvalrshunty/amzon-clone)
 
 An Amazon-style website built using HTML and CSS.
 
