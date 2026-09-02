@@ -23,7 +23,7 @@
 
 ## 👨‍💻 Who I Am
 
-```ts
+ts
 const prajval = {
   title: "Student",
   stack: [
